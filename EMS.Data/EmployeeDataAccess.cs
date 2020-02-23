@@ -11,9 +11,9 @@ namespace EMS.Data
 {
     public class EmployeeDataAccess
     {
-        //string DataSource = @"Data Source=DESKTOP-SL52T4E\SQLEXPRESS;Initial Catalog=EmployeeManagementSystem;Integrated Security=True"; //Laptop
-        public string DataSource = @"Data Source=DANSPC\SQLEXPRESS;Initial Catalog=EmployeeManagementSystem;Integrated Security=True"; //Desktop
-        //string DataSource = @"Data Source=PE00A001006DE10\SQLEXPRESS;Initial Catalog=EmployeeManagementSystem;Integrated Security=True"; //TafePC
+        
+        public string DataSource = "";
+       
 
         public void ChangeDataSource()
         {
