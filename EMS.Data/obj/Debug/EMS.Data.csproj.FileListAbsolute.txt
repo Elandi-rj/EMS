@@ -1,0 +1,59 @@
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\bin\Debug\EMS.Data.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\bin\Debug\EMS.Data.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\bin\Debug\EMS.Entity.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\bin\Debug\EMS.Entity.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\obj\Debug\EMS.Data.csprojAssemblyReference.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CopyComplete
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\obj\Debug\EMS.Data.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Data\obj\Debug\EMS.Data.pdb
+G:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Data.dll
+G:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Data.pdb
+G:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Entity.dll
+G:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Entity.pdb
+G:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.csprojAssemblyReference.cache
+G:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CopyComplete
+G:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.dll
+G:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.pdb
+D:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Data.dll
+D:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Data.pdb
+D:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Entity.dll
+D:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Entity.pdb
+D:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.csprojAssemblyReference.cache
+D:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CopyComplete
+D:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.dll
+D:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.pdb
+E:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Data.dll
+E:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Data.pdb
+E:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Entity.dll
+E:\Programming2\Project\EMS\EMS.Data\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.csprojAssemblyReference.cache
+E:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CoreCompileInputs.cache
+E:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CopyComplete
+E:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.dll
+E:\Programming2\Project\EMS\EMS.Data\obj\Debug\EMS.Data.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.csprojAssemblyReference.cache
+G:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.dll
+G:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Data.dll
+G:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Data.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Entity.dll
+G:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Entity.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CopyComplete
+E:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Data.dll
+E:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Data.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Entity.dll
+E:\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.csprojAssemblyReference.cache
+E:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CoreCompileInputs.cache
+E:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CopyComplete
+E:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.dll
+E:\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Data.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Data.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Entity.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\bin\Debug\EMS.Entity.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.csprojAssemblyReference.cache
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.csproj.CopyComplete
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Data\obj\Debug\EMS.Data.pdb

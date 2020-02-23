@@ -1,0 +1,33 @@
+C:\Users\sharijanto\Desktop\EMS\EMS.Entity\bin\Debug\EMS.Entity.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Entity\bin\Debug\EMS.Entity.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.Entity\obj\Debug\EMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.Entity\obj\Debug\EMS.Entity.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Entity\obj\Debug\EMS.Entity.pdb
+G:\Programming2\Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.dll
+G:\Programming2\Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.pdb
+G:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.dll
+G:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.pdb
+G:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+D:\Programming2\Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.dll
+D:\Programming2\Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.pdb
+D:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+D:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.dll
+D:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.pdb
+E:\Programming2\Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.dll
+E:\Programming2\Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+E:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.csproj.CoreCompileInputs.cache
+E:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.dll
+E:\Programming2\Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.dll
+E:\Programming2\Daniel Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+E:\Programming2\Daniel Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.csproj.CoreCompileInputs.cache
+E:\Programming2\Daniel Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.dll
+E:\Programming2\Daniel Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Entity\bin\Debug\EMS.Entity.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Entity\obj\Debug\EMS.Entity.pdb

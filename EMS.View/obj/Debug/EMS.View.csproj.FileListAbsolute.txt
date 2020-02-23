@@ -1,0 +1,121 @@
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.View.exe.config
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.View.exe
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.View.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.Entity.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.Logic.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.Data.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.Entity.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.Logic.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.View\bin\Debug\EMS.Data.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.csprojAssemblyReference.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.Form1.resources
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.Properties.Resources.resources
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.csproj.GenerateResource.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.csproj.CoreCompileInputs.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.csproj.CopyComplete
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.exe
+C:\Users\sharijanto\Desktop\EMS\EMS.View\obj\Debug\EMS.View.pdb
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.exe.config
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.exe
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.pdb
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Entity.dll
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Logic.dll
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Data.dll
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Entity.pdb
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Logic.pdb
+G:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Data.pdb
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csprojAssemblyReference.cache
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.Properties.Resources.resources
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.GenerateResource.cache
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CopyComplete
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.exe
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.pdb
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.AddEmployeeForm.resources
+G:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.ManagementForm.resources
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.exe.config
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.exe
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.pdb
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Entity.dll
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Logic.dll
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Data.dll
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Entity.pdb
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Logic.pdb
+D:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Data.pdb
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csprojAssemblyReference.cache
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.AddEmployeeForm.resources
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.ManagementForm.resources
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.Properties.Resources.resources
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.GenerateResource.cache
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CopyComplete
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.exe
+D:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.pdb
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.exe.config
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.exe
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.View.pdb
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Entity.dll
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Logic.dll
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Data.dll
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Logic.pdb
+E:\Programming2\Project\EMS\EMS.View\bin\Debug\EMS.Data.pdb
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csprojAssemblyReference.cache
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.AddEmployeeForm.resources
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.ManagementForm.resources
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.Properties.Resources.resources
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.GenerateResource.cache
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CoreCompileInputs.cache
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CopyComplete
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.exe
+E:\Programming2\Project\EMS\EMS.View\obj\Debug\EMS.View.pdb
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.exe.config
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.exe
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.pdb
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Entity.dll
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Logic.dll
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Data.dll
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Logic.pdb
+E:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Data.pdb
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csprojAssemblyReference.cache
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.AddEmployeeForm.resources
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.ManagementForm.resources
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.Properties.Resources.resources
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.GenerateResource.cache
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CoreCompileInputs.cache
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CopyComplete
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.exe
+E:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.pdb
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.exe.config
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.exe
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.pdb
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Entity.dll
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Logic.dll
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Data.dll
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Entity.pdb
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Logic.pdb
+G:\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Data.pdb
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csprojAssemblyReference.cache
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.AddEmployeeForm.resources
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.ManagementForm.resources
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.Properties.Resources.resources
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.GenerateResource.cache
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CopyComplete
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.exe
+G:\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.exe.config
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.exe
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.View.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Entity.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Logic.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Data.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Entity.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Logic.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\bin\Debug\EMS.Data.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csprojAssemblyReference.cache
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.AddEmployeeForm.resources
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.ManagementForm.resources
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.Properties.Resources.resources
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.GenerateResource.cache
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.csproj.CopyComplete
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.exe
+G:\cert4\Programming2\Daniel Project\EMS\EMS.View\obj\Debug\EMS.View.pdb

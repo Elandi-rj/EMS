@@ -1,0 +1,73 @@
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\bin\Debug\EMS.Logic.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\bin\Debug\EMS.Logic.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\bin\Debug\EMS.Data.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\bin\Debug\EMS.Entity.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\bin\Debug\EMS.Data.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\bin\Debug\EMS.Entity.pdb
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\obj\Debug\EMS.Logic.csprojAssemblyReference.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CoreCompileInputs.cache
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CopyComplete
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\obj\Debug\EMS.Logic.dll
+C:\Users\sharijanto\Desktop\EMS\EMS.Logic\obj\Debug\EMS.Logic.pdb
+G:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.dll
+G:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.pdb
+G:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Data.dll
+G:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.dll
+G:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Data.pdb
+G:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.pdb
+G:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csprojAssemblyReference.cache
+G:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CopyComplete
+G:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.dll
+G:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.pdb
+D:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.dll
+D:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.pdb
+D:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Data.dll
+D:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.dll
+D:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Data.pdb
+D:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.pdb
+D:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csprojAssemblyReference.cache
+D:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CopyComplete
+D:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.dll
+D:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.pdb
+E:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.dll
+E:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.pdb
+E:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Data.dll
+E:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.dll
+E:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Data.pdb
+E:\Programming2\Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csprojAssemblyReference.cache
+E:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CoreCompileInputs.cache
+E:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CopyComplete
+E:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.dll
+E:\Programming2\Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.dll
+E:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Data.dll
+E:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.dll
+E:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Data.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.pdb
+E:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csprojAssemblyReference.cache
+E:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CoreCompileInputs.cache
+E:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CopyComplete
+E:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.dll
+E:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.dll
+G:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Data.dll
+G:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.dll
+G:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Data.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.pdb
+G:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csprojAssemblyReference.cache
+G:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CopyComplete
+G:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.dll
+G:\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Logic.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Data.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Data.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\bin\Debug\EMS.Entity.pdb
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csprojAssemblyReference.cache
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.csproj.CopyComplete
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.dll
+G:\cert4\Programming2\Daniel Project\EMS\EMS.Logic\obj\Debug\EMS.Logic.pdb
